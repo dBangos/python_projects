@@ -72,11 +72,6 @@ plt.show()
 plt.plot(b3)
 plt.show()
 """
-def knn_classifier(Z,v,K,x):
-    c=max(v)
-    for i in range(len(Z)):
-        dist=(x[i]-Z)^2
-
 
 
 
